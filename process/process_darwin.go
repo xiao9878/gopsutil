@@ -10,9 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
-	"github.com/shirou/gopsutil/v3/net"
-	"github.com/tklauser/go-sysconf"
+	"github.com/xiao9878/gopsutil/v3/internal/common"
+	"github.com/xiao9878/gopsutil/v3/net"
 	"golang.org/x/sys/unix"
 )
 

@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
 	"github.com/stretchr/testify/assert"
+	"github.com/xiao9878/gopsutil/v3/internal/common"
 )
 
 func Test_Process_splitProcStat(t *testing.T) {
